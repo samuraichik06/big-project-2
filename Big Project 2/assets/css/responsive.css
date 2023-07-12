@@ -1,0 +1,328 @@
+@media screen and  (min-width: 550px) and (max-width: 600px){
+    *{
+        box-sizing: border-box !important;
+    }
+    nav{
+        width: 600px !important;
+        height: 60px !important;
+    }
+    .number-for-nav{
+        margin-left: 20px !important;
+        color: white !important;
+        font-size: small !important;
+    }
+    .lorem-for-nav{
+        margin-left: 25px !important;
+        color: white !important;
+    }
+    .icon1{
+        background-image: url(./img/envelope.png) !important;
+        width: 15px !important;
+        height: 15px !important;
+        background-repeat: no-repeat !important;
+        margin-left: 70px !important;
+        margin-top: 10px !important;
+    }
+    .icon2{
+        background-image: url(./img/insta.png) !important;
+        width: 15px !important;
+        height: 15px !important;
+        background-repeat: no-repeat !important;
+        margin-left: 20px !important;
+        margin-top: 10px !important;
+    }
+    .icon3{
+        background-image: url(./img/watsapp.png) !important;
+        width: 15px !important;
+        height: 15px !important;
+        background-repeat: no-repeat !important;
+        margin-left: 20px !important;
+        margin-top: 10px !important;
+    }
+    .for-header{
+        width: 100% !important;
+        height: 15% !important;
+        background-size: cover !important;
+        background-position: center ;
+        padding-left: 10px !important;
+    }
+    .container-for-header1{
+        width: 100% !important;
+        height: 12% !important;
+    }
+    .for-img{
+        display: none !important;
+    }
+    .contacts{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100% !important;
+        gap: 10px !important;
+    }
+    .lorem-for-who{
+        display: none;
+    }
+    .who-are-we1{
+        width: 100% !important;
+        margin: 0 !important;
+    }
+    .traktor-img{
+        margin: 0 !important;
+    }
+    .our-komand{
+        display: none !important;
+    }
+    #first{
+        margin-left: 10px !important;
+    }
+    .who-are-we{
+        width: 100% !important;
+        gap: 10px !important;
+    }
+    .p-for-what-doing1{
+        display: none !important;
+    }
+    .p-for-what-doing2{
+        display: none !important;
+    }
+    #plane{
+        position: static !important;
+        margin-bottom: 10px !important;
+    }
+    #train{
+        position: static !important;
+        margin-bottom: 10px !important;
+    }
+    #ship{
+        position: static !important;
+        margin-bottom: 10px !important;
+    }
+    #ship2{
+        position: static !important;
+        margin-bottom: 10px !important;
+    }
+    #truck{
+        position: static !important;
+        margin-top: 0 !important;
+        margin-left: 0 !important;
+        margin-bottom: 10px !important;
+    }
+    .what-doing{
+        display: grid !important;
+        position: relative !important;
+        grid-template-columns:  auto auto !important;
+        grid-template-rows: auto auto auto !important;
+    }
+    .for-cards{
+        display: grid !important;
+        grid-template-columns: auto auto !important;
+        grid-template-rows: auto !important;
+        gap: 10px !important;
+        justify-content: unset !important;
+    }
+    .card{
+        width: 250px !important;
+        height: 325px !important;
+        padding: 0 !important;
+    }
+    .ferdi-png , .value-png , .stonks-png{
+        display: none !important;
+    }
+    .mission{
+        height: 900px !important;
+    }
+    .back-end-img{
+        height: 700px !important;
+    }
+    .one , .two , .three , .four , .five , .six , .seven , .eight{
+        display: none !important;
+    }
+    footer{
+        margin-top: 100px !important;
+        height: 70px !important;
+    }
+    .contact-with-us{
+        display: grid !important;
+        grid-template-columns: auto auto !important;
+    }
+    .form{
+        padding: 10px !important;
+        width: 400px !important;
+        height: 300px !important;
+    }
+    .lorem-for-contact{
+        display: none !important;
+    }
+}
+@media screen and (max-width: 412px){
+    nav{
+        width: 412px !important;
+        height: 50px !important;
+    }
+    .number-for-nav{
+        margin-left: 10px !important;
+        color: white !important;
+        font-size: small !important;
+    }
+    .lorem-for-nav{
+        margin-left: 10px !important;
+        color: white !important;
+        display: none !important;
+    }
+    .icon1{
+        background-image: url(./img/envelope.png) !important;
+        width: 15px !important;
+        height: 15px !important;
+        background-repeat: no-repeat !important;
+        margin-left: 140px !important;
+        margin-top: 10px !important;
+    }
+    .icon2{
+        background-image: url(./img/insta.png) !important;
+        width: 15px !important;
+        height: 15px !important;
+        background-repeat: no-repeat !important;
+        margin-left: 20px !important;
+        margin-top: 10px !important;
+    }
+    .icon3{
+        background-image: url(./img/watsapp.png) !important;
+        width: 15px !important;
+        height: 15px !important;
+        background-repeat: no-repeat !important;
+        margin-left: 20px !important;
+        margin-top: 10px !important;
+    }
+    .for-header{
+        width: 100% !important;
+        height: 15% !important;
+        background-size: cover !important;
+        background-position: center ;
+        padding-left: 7px !important;
+    }
+    .container-for-header1{
+        width: 100% !important;
+        height: 12% !important;
+    }
+    .for-img{
+        display: none !important;
+    }
+    .contacts{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100% !important;
+        gap: 10px !important;
+    }
+    #first{
+        margin-left: 0px !important;
+    }
+    .p-for-contacts2{
+        margin: 0 !important;
+    }
+    .main-p{
+        font-size: larger !important;
+    }
+    .main-p2{
+        font-size: small !important;
+    }
+    .main-p3{
+        font-size: smaller !important;
+    }
+    .p-for-what-doing1{
+        display: none !important;
+    }
+    .p-for-what-doing2{
+        display: none !important;
+    }
+    #plane{
+        position: static !important;
+        margin-bottom: 10px !important;
+    }
+    #train{
+        position: static !important;
+        margin-bottom: 10px !important;
+    }
+    #ship{
+        position: static !important;
+        margin-bottom: 10px !important;
+    }
+    #ship2{
+        position: static !important;
+        margin-bottom: 10px !important;
+    }
+    #truck{
+        position: static !important;
+        margin-top: 0 !important;
+        margin-left: 0 !important;
+        margin-bottom: 10px !important;
+    }
+    .what-doing{
+        display: grid !important;
+        position: relative !important;
+        grid-template-columns:  auto !important;
+        grid-template-rows: auto auto auto auto auto !important;
+        justify-content: center;
+    }
+    .for-cards{
+        display: grid !important;
+        grid-template-columns: auto !important;
+        grid-template-rows: auto auto auto !important;
+        gap: 10px !important;
+        justify-content: center!important;
+    }
+    .card{
+        width: 250px !important;
+        height: 325px !important;
+        padding: 0 !important;
+    }
+    .ferdi-png , .value-png , .stonks-png{
+        display: none !important;
+    }
+    .mission{
+        height: 1700px !important;
+    }
+    .for-end-block{
+        width: 100% !important;
+    }
+    .main-img{
+        display: none !important;
+    }
+    .as{
+        margin-left: 20px !important;
+        padding: 0 !important;
+    }
+    .list-end{
+        margin: 0 !important;
+        margin-top: 60px !important;
+        padding: 0 !important;
+    }
+    .traktor-img{
+        margin: 0 !important;
+    }
+    .our-komand{
+        display: none !important;
+    }
+    .form{
+        padding: 10px !important;
+        width: 200px !important;
+        height: 200px !important;
+        font-size: medium;
+    }
+    .lorem-for-contact{
+        display: none !important;
+    }
+    .p-for-form{
+        font-size: medium !important;
+    }
+    .p-for-number-form{
+        font-size: medium !important;
+    }
+    .p-for-email-form{
+        font-size: medium !important;
+    }
+    .lorem-for-who{
+        display: none !important;
+    }
+}
